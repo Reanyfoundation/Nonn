@@ -1,0 +1,11 @@
+{
+  "name": "webber",
+  "version": "1.0.0",
+  "description": "nonn",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
